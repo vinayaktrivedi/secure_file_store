@@ -1,0 +1,7 @@
+This repository contains files related to CS628A Assignment-1.
+
+assn1.zip contains the skeleton file assn1.go 
+All your code will go into this file
+
+Add extra tests into assn1_test.go to test the functionality 
+and security of your solution
